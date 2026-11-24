@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Auditoria de documentos",
+  "version": "0.1.0",
+  "description": "Confere presença local dos anexos e procura sinais de pouco texto, draft e resumo nas páginas iniciais.",
+  "author": "Alyce Suza",
+  "homepage_url": "https://github.com/alycesuza/zotero-document-audit",
+  "applications": {
+    "zotero": {
+      "id": "zotero-document-audit@alycesuza.github.io",
+      "update_url": "https://github.com/alycesuza/zotero-document-audit/releases/latest/download/updates.json",
+      "strict_min_version": "10.0",
+      "strict_max_version": "10.0.*"
+    }
+  }
+}
