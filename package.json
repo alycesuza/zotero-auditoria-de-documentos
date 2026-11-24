@@ -1,6 +1,6 @@
 {
-  "name": "zotero-document-audit",
-  "version": "0.1.0",
+  "name": "zotero-auditoria-de-documentos",
+  "version": "0.1.1",
   "private": true,
   "description": "Confere presença local dos anexos e procura sinais de pouco texto, draft e resumo nas páginas iniciais.",
   "license": "AGPL-3.0-only",

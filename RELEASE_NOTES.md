@@ -1,9 +1,11 @@
-# Auditoria de documentos 0.1.0
+# Auditoria de Documentos 0.1.1
 
 Pré-lançamento para Zotero 10.0.x.
 
-Confere presença local dos anexos e procura sinais de pouco texto, draft e resumo nas páginas iniciais.
+- Nome da extensão, repositório e instalador padronizados em português.
+- Documentação e endereços de atualização revisados.
+- Funções da versão anterior preservadas, incluindo os identificadores de instalação e o histórico local de correções, quando aplicável.
 
-Somente leitura. Examina até cinco páginas de cada PDF. Não atesta integridade ou vigência, não interpreta legislação, não reconhece imagens e não confunde automaticamente a palavra draft com uma versão preliminar da obra.
+Baixe `zotero-auditoria-de-documentos-0.1.1.xpi` e instale em Ferramentas > Extensões > Instalar extensão de arquivo.
 
-Baixe o arquivo `.xpi`, não o código-fonte compactado. Instale em Ferramentas > Extensões > Instalar extensão de arquivo. Consulte o README para uso, privacidade e desinstalação. Esta versão ainda requer validação de uso cotidiano; testes automatizados não representam revisão de uma biblioteca real inteira.
+Esta atualização muda a apresentação e os links. A validação funcional de base está documentada em docs/VALIDATION.md; os testes automatizados são executados novamente para esta versão.
